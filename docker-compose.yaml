@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+  nutri_suggestion:
+    build: .
+    ports:
+      - "8505:8505"
+    image: nutri_suggestion:latest
+    container_name: nutri_suggestion
+    hostname: nutri_suggestion
+    networks:
+      - my-network
+    restart: unless-stopped
+networks:
+  my-network:
+    driver: bridge
