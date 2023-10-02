@@ -2,16 +2,7 @@
 
 A Streamlit-based web application that provides comprehensive nutritional information on various food products and suggests healthier alternatives.
 
-
-
-## Table of Contents
-
-- [Nutrition Insight App](#nutrition-insight-app)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Features](#features)
-  - [Technical Stack](#technical-stack)
-  - [Installation \& Usage](#installation--usage)
+![nutri_suggestion_streamlit](https://github.com/sinclairfr/nutri_suggestion/assets/118417/c81a8be6-67bc-4b42-b2b1-3638dd149b76)
 
 ## About
 
